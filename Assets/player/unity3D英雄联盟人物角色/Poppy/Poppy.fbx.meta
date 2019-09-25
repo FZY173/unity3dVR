@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 75f6166848c02ff4da9034fc0ad476ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BUFFBONE_GLB_CHANNEL_LOC
+    100002: BUFFBONE_GLB_WEAPON_1
+    100004: C_BUFFBONE_GLB_CENTER_LOC
+    100006: C_BUFFBONE_GLB_OVERHEAD_LOC
+    100008: hammer
+    100010: hammer_b
+    100012: head
+    100014: L_BUFFBONE_GLB_FOOT_LOC
+    100016: L_BUFFBONE_GLB_HAND_LOC
+    100018: L_calf
+    100020: L_finger
+    100022: L_finger_b
+    100024: L_foot
+    100026: L_forearm
+    100028: L_hair
+    100030: L_hair_b
+    100032: L_hair_c
+    100034: L_hair_d
+    100036: L_hand
+    100038: L_PARENTING_HAND_LOC
+    100040: L_shoulder
+    100042: L_thigh
+    100044: L_thumb
+    100046: L_thumb_b
+    100048: L_toe
+    100050: L_uparm
+    100052: lolArmature
+    100054: lolMesh
+    100056: neck
+    100058: pelvis
+    100060: //RootNode
+    100062: R_BUFFBONE_GLB_FOOT_LOC
+    100064: R_BUFFBONE_GLB_HAND_LOC
+    100066: R_calf
+    100068: R_finger
+    100070: R_finger_b
+    100072: R_foot
+    100074: R_forearm
+    100076: R_hair
+    100078: R_hair_b
+    100080: R_hair_c
+    100082: R_hair_d
+    100084: R_hand
+    100086: R_PARENTING_HAND_LOC
+    100088: R_shoulder
+    100090: R_thigh
+    100092: R_thumb
+    100094: R_thumb_b
+    100096: R_toe
+    100098: R_uparm
+    100100: root
+    100102: shield
+    100104: spine
+    400000: BUFFBONE_GLB_CHANNEL_LOC
+    400002: BUFFBONE_GLB_WEAPON_1
+    400004: C_BUFFBONE_GLB_CENTER_LOC
+    400006: C_BUFFBONE_GLB_OVERHEAD_LOC
+    400008: hammer
+    400010: hammer_b
+    400012: head
+    400014: L_BUFFBONE_GLB_FOOT_LOC
+    400016: L_BUFFBONE_GLB_HAND_LOC
+    400018: L_calf
+    400020: L_finger
+    400022: L_finger_b
+    400024: L_foot
+    400026: L_forearm
+    400028: L_hair
+    400030: L_hair_b
+    400032: L_hair_c
+    400034: L_hair_d
+    400036: L_hand
+    400038: L_PARENTING_HAND_LOC
+    400040: L_shoulder
+    400042: L_thigh
+    400044: L_thumb
+    400046: L_thumb_b
+    400048: L_toe
+    400050: L_uparm
+    400052: lolArmature
+    400054: lolMesh
+    400056: neck
+    400058: pelvis
+    400060: //RootNode
+    400062: R_BUFFBONE_GLB_FOOT_LOC
+    400064: R_BUFFBONE_GLB_HAND_LOC
+    400066: R_calf
+    400068: R_finger
+    400070: R_finger_b
+    400072: R_foot
+    400074: R_forearm
+    400076: R_hair
+    400078: R_hair_b
+    400080: R_hair_c
+    400082: R_hair_d
+    400084: R_hand
+    400086: R_PARENTING_HAND_LOC
+    400088: R_shoulder
+    400090: R_thigh
+    400092: R_thumb
+    400094: R_thumb_b
+    400096: R_toe
+    400098: R_uparm
+    400100: root
+    400102: shield
+    400104: spine
+    2100000: lolTexture__poppy_dds
+    2100002: lolTexture
+    4300000: lolMesh
+    9500000: //RootNode
+    13700000: lolMesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
